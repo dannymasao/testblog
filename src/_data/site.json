@@ -1,11 +1,11 @@
 {
   "showThemeCredit": false,
   "name": "Vertical Rhythm",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "shortDesc": "Articles on web design, UI/UX and front end.",
   "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@andybelldesign",
-  "authorName": "Andy Bell",
+  "authorEmail": "dannymasaowinston@gmail.com",
+  "authorHandle": "@dannymasaoweb",
+  "authorName": "Danny Masao WInston",
   "enableThirdPartyComments": true,
-  "maxPostsPerPage": 5
+  "maxPostsPerPage": 10
 }
