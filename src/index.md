@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Vertical Rhythm
+title: 'DISPLAY: BLOG'
 postsHeading: 最新記事
 archiveButtonText: 一覧を見る
 socialImage: ''
 ---
-Web Design, UI/UX and Front End.
+より良いウェブ制作のために。
