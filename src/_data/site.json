@@ -1,11 +1,11 @@
 {
   "showThemeCredit": false,
-  "name": "Vertical Rhythm",
-  "shortDesc": "Articles on web design, UI/UX and front end.",
-  "url": "https://hylia.website",
+  "name": "Display: Blog",
+  "shortDesc": "日々学び続けるウェブデザインとフロントエンド",
+  "url": "https://",
   "authorEmail": "dannymasaowinston@gmail.com",
   "authorHandle": "@dannymasaoweb",
-  "authorName": "Danny Masao WInston",
+  "authorName": "Danny Masao Winston",
   "enableThirdPartyComments": true,
   "maxPostsPerPage": 10
 }
