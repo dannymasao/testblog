@@ -25,6 +25,7 @@
       background: var(--color-theme-highlight);
       padding: 0.2rem 0.4rem 0.3rem 0.4rem;
       text-decoration: none;
+      word-break: break-word;
 
       @include apply-utility('leading', 'tight');
     }
@@ -125,7 +126,7 @@
     h2 {
       flex-shrink: 0;
       margin-right: get-size('base');
-      color: var(--color-dark);
+      color: var(--color-text);
     }
 
     h2 a {
